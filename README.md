@@ -1,1 +1,3 @@
 KnoID es un servicio empresarial que propone de manera autentica y detallada el flujo de información de un habitante, tomando en cuenta aspectos académicos, penales, laborales y médicos, para conllevar un método de contratación optimo, ecológico y eficiente en la búsqueda y aceptación de empleo.
+
+Dibler Software, 2020.
